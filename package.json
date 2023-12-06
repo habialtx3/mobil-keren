@@ -6,6 +6,7 @@
     "tween.js": "^16.6.0"
   },
   "scripts": {
+    "clean-install-build": "rm -rf node_modules && npm install && npm run build",
     "start": "vite",
     "build": "vite build"
   },
