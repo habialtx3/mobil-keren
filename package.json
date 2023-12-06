@@ -5,6 +5,8 @@
     "three": "^0.158.0",
     "tween.js": "^16.6.0"
   },
+  "build": "vite build",
+  "start": "vite",
   "devDependencies": {
     "@parcel/config-default": "^2.10.3",
     "parcel-reporter-static-files-copy": "^1.5.3",
